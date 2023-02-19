@@ -1,5 +1,5 @@
 # TinyToreroShell
-For this project you will implement a Linux shell program named TTSH (short for Tiny Torero Shell). TTSH should support the following:
+Implement a Linux shell program named TTSH (short for Tiny Torero Shell). TTSH should support the following:
 
 Executing simple commands run in the foreground (e.g. ls -l)
 Executing simple commands run in the background (e.g. ./siesta &)
